@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "739115092520",
+    "firebase_url": "https://korekrak-todo-list.firebaseio.com",
+    "project_id": "korekrak-todo-list",
+    "storage_bucket": "korekrak-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739115092520:android:116464f39deab00a",
+        "android_client_info": {
+          "package_name": "denny.kristianto.korekrakfirebasetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739115092520-7af8vos32q1bp2n8rlfb28pt8k7ffhh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "denny.kristianto.korekrakfirebasetodo",
+            "certificate_hash": "b4fdb9b137d020c63bd144e10ab2b2a5a9e2b6f2"
+          }
+        },
+        {
+          "client_id": "739115092520-sb8s9uaeppbpl3u0doh8okjdsgioot8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHm7C4nqxy8IKNb6G27DWiaZprvKWac8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739115092520-sb8s9uaeppbpl3u0doh8okjdsgioot8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
